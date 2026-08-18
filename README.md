@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3549A2,100:75478A&height=220&section=header&text=Arya%20Kawli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=60&descSize=18" width="100%"/>
@@ -24,7 +23,7 @@
 
 <td width="55%" valign="top">
 
-```javascript
+
 const arya = {
     location: "Mumbai, Maharashtra, India",
 
@@ -57,7 +56,7 @@ const arya = {
 
     funFact: "I turn data into intelligent solutions! 🧠 → 🤖"
 };
-````
+
 
 </td>
 
@@ -347,7 +346,6 @@ Exploring practical data-driven solutions across machine learning, NLP and predi
 
 <div align="center">
 
-```text
                     RAW DATA
                        │
                        ▼
@@ -375,7 +373,7 @@ Exploring practical data-driven solutions across machine learning, NLP and predi
                        │
                        ▼
                   🚀 OUTPUT
-```
+
 
 </div>
 
@@ -385,7 +383,7 @@ Exploring practical data-driven solutions across machine learning, NLP and predi
 
 <div align="center">
 
-```text
+
              🎥 Educational Video
                       │
                       ▼
@@ -408,7 +406,6 @@ Exploring practical data-driven solutions across machine learning, NLP and predi
                       │
                       ▼
              💬 Context-Aware Answer
-```
 
 </div>
 
@@ -539,4 +536,4 @@ Forecasting
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:75478A,100:3549A2&height=120&section=footer" width="100%"/>
 
 </div>
-```
+
