@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%"/>
+<img src="./header.png" width="100%"/>
 
 <h2>🚀 Building Intelligent Systems with AI</h2>
 
@@ -62,7 +62,7 @@ const arya = {
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/developer.png" width="380px"/>
+<img src="./developer.png" width="380px"/>
 
 </td>
 
