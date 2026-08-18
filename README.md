@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3549A2,100:75478A&height=220&section=header&text=Arya%20Kawli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=60&descSize=18" width="100%"/>
+<img src="./assets/header.png" width="100%"/>
 
 <h2>🚀 Building Intelligent Systems with AI</h2>
 
@@ -62,7 +62,7 @@ const arya = {
 
 <td width="45%" align="center" valign="middle">
 
-<img src="https://illustrations.popsy.co/white/programming.svg" width="380px"/>
+<img src="./assets/developer.png" width="380px"/>
 
 </td>
 
